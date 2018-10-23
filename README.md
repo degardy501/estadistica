@@ -1,0 +1,2 @@
+# estadistica
+Trabajo de estadística
